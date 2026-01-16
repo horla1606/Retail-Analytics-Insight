@@ -60,10 +60,10 @@ Total Sales = SUM(Fact_Order[Sales])
 ![Dashboard Overview - Key Metrics and Trends](images/dashboard11.png)
 *This dashboard shows the overall financial health: $2M sales, $443K profit, and performance across categories and customer segments. It highlights that Technology is both the top profit driver and main loss source.*
 
-### 2. Product & Customer Analysis
-![Product and Customer Segment Analysis](images/dashboard12.png)
+### 2. Representative & Customer Analysis
+![Representative and Customer Segment Analysis](images/dashboard13.png)
 *A detailed breakdown of profitability by product category and customer segment. It reveals the Consumer segment as the most profitable ($219K) and allows for granular performance analysis.*
 
-### 3. Logistics & Regional Performance
-![Shipping and Regional Performance](images/dashboard13.png)
+### 3. Delivery & Regional Performance
+![Shipping and Regional Performance](images/dashboard12.png)
 *Analysis of shipping modes and regional performance. It identifies Standard Class as the dominant but slowest (42 days avg.) method and pinpoints the Central region as a loss leader despite the West leading in sales volume.*
