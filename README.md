@@ -42,7 +42,7 @@ Total Profit = CALCULATE(SUM(Fact_Order[Profit]), Fact_Order[Profit]>0)
 Profit Margin % = DIVIDE([Total Profit], SUM(Sales[Sales Amount]), 0)
 
 // Average Delivery Days by Shipping Mode
-Avg Delivery Days = AVERAGE(Fact_Order[Delivvery Days])
+Avg Delivery Days = AVERAGE(Fact_Order[Delivery Days])
 
 // Orders Calculation
 Total Orders = DISTINCTCOUNT(Fact_Order[Order ID])
